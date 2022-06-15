@@ -1,5 +1,5 @@
 body {
-  background-color: blueviolet;
+  background-color: #f8e8a6;
 }
 
 h1 {
@@ -8,4 +8,13 @@ h1 {
 
 h4 {
   text-align: center;
+}
+
+.links {
+  text-align: center;
+}
+
+.dog-pic {
+  display: block;
+  margin: 0 auto;
 }
